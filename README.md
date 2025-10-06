@@ -4,7 +4,7 @@
 
 </div>
 
-I'm **Ubaid**, a passionate developer and researcher diving deep into the world of **blockchain**, **AI**, and **Web3**. When I'm not coding, you'll find me exploring the latest DeFi protocols or building automated trading systems that actually work! 🚀
+I'm ***Ubaid***, a passionate data analyst and researcher diving deep into the world of data science, AI, and Web3 analytics. When I'm not crunching numbers, you'll find me exploring the latest DeFi protocols or building automated trading systems that actually work! 🚀
 
   
 
