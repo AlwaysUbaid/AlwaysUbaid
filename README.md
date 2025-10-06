@@ -10,9 +10,12 @@ I'm ***Ubaid***, a passionate data analyst and researcher diving deep into the w
 
 ### 🔥 What gets me excited
 
--  **Building stuff that matters** - From AI agents to trading bots
-
--  **Decoding blockchain mysteries** - Understanding how the future of finance works
+- **Building stuff that matters** - From AI agents to trading bots
+- **Decoding blockchain mysteries** - Understanding how the future of finance works
+- **Learning by doing** - Building real projects while expanding my skills
+- **Turning data into insights** - Finding hidden patterns in complex datasets
+- **Creating beautiful visualizations** - Making data tell compelling stories
+- **Automating repetitive tasks** - Because life's too short for manual work
 
 ## 🛠️ Technical Skills
 
